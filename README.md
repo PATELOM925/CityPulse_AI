@@ -28,8 +28,8 @@
 | Tirth Patel | Embedded Systems / IoT Bridge |
 
 ## Status
-- [✔️] Finalize project scope beyond TTC
-- [ ✔️] Register team as CityPulse AI
+ ✔️ Finalize project scope beyond TTC
+ ✔️ Register team as CityPulse AI
 - [ ] Build Design Doc
 - [ ] Set up dev environment
 - [ ] Build MVP
