@@ -15,10 +15,10 @@
 | Tirth Patel | Embedded Systems / IoT Bridge |
 
 ## Project
-**TTC-Pulse v2** — Refined and enhanced version of our existing TTC-Pulse project.
+**CityPulse AI** — AI demand balancing software for Toronto's major-event economy. To guide visitors to better TTC routes, gates, restaurants, and public spaces by helping TTC and city operators detect crowd imbalance and recommend diversions. To help businesses forecast demand, staffing, food prep, and hours. We will use Toronto open data portal powered by agentic AI to improve economic systems by distributing people, money, labour, and inventory more intelligently. This will be impactful during FIFA 2026.
+
 - Built on City of Toronto Open Data Portal datasets
 - Enhanced with NVIDIA AI / NIM models for real-time inference
-- Improved Data Viz layer (building on Awais + Asad's prior group project)
 
 ## Tools
 - NVIDIA NIM / GPU APIs
@@ -28,8 +28,9 @@
 - Toronto Open Data REST API
 
 ## Status
-- [ ] Finalize project scope beyond TTC
-- [ ] Register team as Station51
+- [✔️] Finalize project scope beyond TTC
+- [ ✔️] Register team as CityPulse AI
+- [ ] Build Design Doc
 - [ ] Set up dev environment
 - [ ] Build MVP
 - [ ] Prepare demo
